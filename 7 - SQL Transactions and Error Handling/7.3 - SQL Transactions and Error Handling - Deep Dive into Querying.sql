@@ -89,7 +89,7 @@ COMMIT TRANSACTION
 DECLARE @ERRORRESULTS VARCHAR(50)
 BEGIN TRANSACTION
 	INSERT INTO [Sales].[SalesTerritory]
-           ([Name]
+           ([Name] 
            ,[CountryRegionCode]
            ,[Group]
            ,[SalesYTD]

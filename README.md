@@ -1,6 +1,6 @@
 # Advanced Databases and SQL Querying
 
-[Udemy Course by Rakesh Gopalakrishnan] (https://www.udemy.com/course/advanced-tsql-querying-using-sql-2014/)
+[Udemy Course by Rakesh Gopalakrishnan](https://www.udemy.com/course/advanced-tsql-querying-using-sql-2014/)
 
 ## Contents
 
